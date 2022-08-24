@@ -1,0 +1,30 @@
+{
+  "name": "@pepeeja/stylelint-config",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.js",
+  "author": "Vladislav Shukelait",
+  "keywords": [
+    "stylelint"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepeeja/stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pepeeja/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/pepeeja/stylelint-config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "stylelint": "^14.11.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^28.0.0",
+    "stylelint-config-standard-scss": "^5.0.0",
+    "stylelint-prettier": "^2.0.0",
+    "stylelint-scss": "^4.3.0"
+  }
+}
