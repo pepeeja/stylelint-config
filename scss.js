@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
-    "./index.js",
-    "stylelint-config-standard-scss"
+    "stylelint-config-standard-scss",
+    "./index.js"    
   ],
   plugins: [
     "stylelint-scss"
