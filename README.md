@@ -30,7 +30,7 @@ Create `.stylelintrc` file in the root directory of your project with the follow
 
 ### SCSS
 
-To apply React specific rules there is additional configuration which is inherited from standard one.
+To apply SCSS specific rules there is additional configuration which is inherited from standard one.
 Create `.stylelintrc` file in the root directory of your project with the following content:
 
 ```json
