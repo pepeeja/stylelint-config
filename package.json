@@ -1,6 +1,6 @@
 {
   "name": "@pepeeja/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "index.js",
   "author": "Vladislav Shukelait",
@@ -23,6 +23,7 @@
     "stylelint": "^14.11.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-sass-guidelines": "^9.0.1",
+    "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-prettier": "^2.0.0"
   }
 }
